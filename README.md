@@ -13,7 +13,8 @@ It automates a REST interaction workflow and solves a problem involving social g
 
 **Question 1**: Mutual Followers
 
-**Question 2**: Nth-Level Followers  
+**Question 2**: Nth-Level Followers 
+
 ✅ Sends result back to the webhook with JWT authentication  
 ✅ Includes a retry mechanism (up to 4 times on failure)
 
@@ -27,4 +28,3 @@ It automates a REST interaction workflow and solves a problem involving social g
 - RestTemplate (HTTP client)
 - Jackson (JSON parser)
 
----
