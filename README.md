@@ -10,6 +10,7 @@ It automates a REST interaction workflow and solves a problem involving social g
 ✅ Automatically sends a POST request on app startup to generate a webhook  
 ✅ Parses user graph data and access token  
 ✅ Solves assigned problem based on registration number:
+
 **Question 1**: Mutual Followers
 **Question 2**: Nth-Level Followers  
 ✅ Sends result back to the webhook with JWT authentication  
